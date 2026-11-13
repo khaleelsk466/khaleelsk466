@@ -1,16 +1,16 @@
-## Hi there 👋
+#Hi, I am Shaik Mahammad Khaleel
 
-<!--
-**khaleelsk466/khaleelsk466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a first-year B.Tech Computer Science and Engineering Core student.
 
-Here are some ideas to get you started:
+I plan to choose Cyber Security as my specialization next year. I am currently learning Python and building my foundation in programming, Linux, Computer networks, and Cyber Security Fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Currently Learning 
+-Python basics
+-Linux fundamentals
+-Computer networks 
+-Cyber Security Fundamentals 
+
+##Goals 
+-Build beginner python projects 
+-Create and document cybersecurity learning projects 
+-Develop practical skills for a future Cyber Security Specialization 
